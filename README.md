@@ -1,10 +1,10 @@
 # Words-counter
-#### A bot that counts the number of names starting with letter "A", {16/06/2023}
+#### A bot that counts the number of names starting with the letter "A", {16/06/2023}
 #### By **{Jackline Makena}**
 ## Description
 This is an automation where the robot counts the number of words that start with the letter 'a' in an array of names 
 
-The URL is https://github.com/JacklineMM/Akan-Name-Generator
+The URL is https://github.com/JacklineMM/Words-counter
 
 ## Technologies Used
 The technology used was Uipath studio
